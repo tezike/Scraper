@@ -1,0 +1,2 @@
+# Scraper
+A scraper template
